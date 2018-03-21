@@ -8,6 +8,15 @@ public class Wifi {
 
     private String SSID;
     private String preSharedKey;
+    private String BSSID;
+
+    public String getBSSID() {
+        return BSSID;
+    }
+
+    public void setBSSID(String BSSID) {
+        this.BSSID = BSSID;
+    }
 
     public String getSSID() {
         return SSID;
