@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729521684659",
+    "firebase_url": "https://wifi-c210e.firebaseio.com",
+    "project_id": "wifi-c210e",
+    "storage_bucket": "wifi-c210e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729521684659:android:c7b765e301ab3fbf",
+        "android_client_info": {
+          "package_name": "br.dev.app.wifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729521684659-laege7lekou3kklmaqqq4g4vgc2neu5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTH-7-P2UZa9pOkCuQq1ceHTtxCUAnHYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
